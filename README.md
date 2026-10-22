@@ -71,6 +71,13 @@ This dashboard provides an overview of sales performance, including total revenu
 This dashboard examines delivery performance, delayed orders, refund requests, customer ratings, and differences in customer experience across platforms.
 ![Delivery and Customer Experience Dashboard](<dashboard-images/Delivery & Customer Experience Dashboard.png>)
 
+## 💡 Business Insights
+
+Key findings cover sales performance, category revenue, platform contribution, delivery operations, customer ratings, and refund trends.
+
+Read the complete analysis in [Business Insights](insights/business-insights.md).
+
+
 ---
 
 *This project is intended for educational and portfolio purposes. Platform comparisons and business conclusions depend on the scope and quality of the underlying data.*
