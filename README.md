@@ -50,13 +50,7 @@ Additional analysis areas will be documented according to the actual dashboard a
 
 Key findings and business recommendations will be added after validating the results against the dashboard and dataset.
 
-## 👨‍💻 Author
 
-**Priyanshu Kumar**
-
-Aspiring Data Analyst
-
-GitHub: [analyticsbypriyanshu](https://github.com/analyticsbypriyanshu)
 
 
 ## 📊 Dashboard Preview
@@ -77,6 +71,26 @@ Key findings cover sales performance, category revenue, platform contribution, d
 
 Read the complete analysis in [Business Insights](insights/business-insights.md).
 
+## 📁 Project Resources
+
+* 📊 [Sales Dashboard](dashboard-images/sales_overview_dashboard.png)
+* 🚚 [Delivery & Customer Experience Dashboard](dashboard-images/Delivery & Customer Experience Dashboard.png)
+* 📈 [Business Insights & Recommendations](insights/business-insights.md)
+
+## 🚀 How to Explore This Project
+
+1. Review the dashboard screenshots above.
+2. Read the business insights and recommendations.
+3. Download the Power BI `.pbix` file to explore the interactive dashboard in Power BI Desktop.
+4. Review the Excel dataset to understand the data used in the analysis.
+
+## 👨‍💻 Author
+
+**Priyanshu Kumar**
+
+Aspiring Data Analyst | Excel | SQL | Power BI | Python
+
+GitHub: [analyticsbypriyanshu](https://github.com/analyticsbypriyanshu)
 
 ---
 
