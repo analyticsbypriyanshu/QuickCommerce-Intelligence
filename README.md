@@ -58,6 +58,17 @@ Aspiring Data Analyst
 
 GitHub: [analyticsbypriyanshu](https://github.com/analyticsbypriyanshu)
 
+
+## 📊 Dashboard Preview
+
+### 1. Sales Overview Dashboard
+
+This dashboard provides an overview of sales performance, including total revenue, total orders, average order value, product category performance, and revenue contribution across Blinkit, JioMart, and Swiggy Instamart.
+
+### 2. Delivery & Customer Experience Dashboard
+
+This dashboard examines delivery performance, delayed orders, refund requests, customer ratings, and differences in customer experience across platforms.
+
 ---
 
 *This project is intended for educational and portfolio purposes. Platform comparisons and business conclusions depend on the scope and quality of the underlying data.*
