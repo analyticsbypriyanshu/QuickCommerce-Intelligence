@@ -74,7 +74,7 @@ Read the complete analysis in [Business Insights](insights/business-insights.md)
 ## 📁 Project Resources
 
 * 📊 [Sales Dashboard](dashboard-images/sales_overview_dashboard.png)
-* 🚚 [Delivery & Customer Experience Dashboard](dashboard-images/Delivery & Customer Experience Dashboard.png)
+* 🚚 [Delivery & Customer Experience Dashboard](<dashboard-images/Delivery & Customer Experience Dashboard.png>)
 * 📈 [Business Insights & Recommendations](insights/business-insights.md)
 
 ## 🚀 How to Explore This Project
@@ -91,6 +91,7 @@ Read the complete analysis in [Business Insights](insights/business-insights.md)
 Aspiring Data Analyst | Excel | SQL | Power BI | Python
 
 GitHub: [analyticsbypriyanshu](https://github.com/analyticsbypriyanshu)
+
 
 ---
 
